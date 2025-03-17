@@ -1,0 +1,21 @@
+{
+    "intro": [
+        "Minta kandidat menjelaskan latar belakangnya.",
+        "Tanyakan mengapa tertarik dengan posisi ini."
+    ],
+    "technical": [
+        "Tanyakan pengalaman kerja atau proyek terkait frontend.",
+        "Tanyakan teknologi frontend yang dikuasai dan bagaimana menggunakannya.",
+        "Tanyakan bagaimana kandidat menyelesaikan debugging dalam proyek frontend."
+    ],
+    "teamwork": [
+        "Tanyakan pengalaman bekerja dalam tim.",
+        "Tanyakan bagaimana kandidat menangani konflik dalam tim."
+    ],
+    "salary": [
+        "Tanyakan ekspektasi gaji kandidat."
+    ],
+    "closing": [
+        "Tanyakan apakah kandidat punya pertanyaan untuk perusahaan."
+    ]
+}
