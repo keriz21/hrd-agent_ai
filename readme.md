@@ -1,7 +1,11 @@
 
 ## hrd_v1.ipynb
 
-pada program pertama ini, ai sudah bisa 
+pada program pertama ini, ai sudah bisa menjawab pertanyaannya
+tapi karena masih kosong banget, kek mentah bland gitu.
+
+maka tidak ada semacam limitasi nya. sehingga ai akan ngalor ngidul menanyakan tanpa henti. 
+diperlukan sebuah cara memberikan limitasi pertanyaan yang akan diberikan.
 
 ## hrd_v2.ipynb
 
@@ -24,3 +28,16 @@ baru aja mulai sudah selesai. ckckckck.
 
 saran : 
 > pengambilan keputusan diserahkan ke ai, dengan output nilai boolean
+
+## hrd_v3.ipynb
+
+ini sudah mulai lebih baik
+format output yang dihasilkan adalah json
+dengna struktur
+
+``` language:json
+    {{
+        "response": "<jawaban AI>",
+        "is_finish": <true/false>
+    }}
+```
