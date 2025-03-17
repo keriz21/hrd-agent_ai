@@ -15,7 +15,7 @@ with open("question_guidelines.json", "r") as file:
 
 class VirtualHRD:
     def __init__(self, position, salary, company_type, cv_path):
-        self.chat_model = ChatOpenAI(model_name="gpt-4o")
+        self.chat_model = ChatOpenAI(model_name="gpt-4o-mini")
         self.position = position
         self.salary = salary
         self.company_type = company_type
